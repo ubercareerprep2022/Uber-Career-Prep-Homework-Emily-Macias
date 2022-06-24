@@ -3,9 +3,6 @@
 
 #endif // ARRAYIMPLEMENTATION_H
 #include <string>
-//Questions:
-//why do we need std?
-//Long just means it can be a decimal?
 
 class dictionary{
 public:
