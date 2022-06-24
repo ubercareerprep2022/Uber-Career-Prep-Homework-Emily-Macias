@@ -8,9 +8,6 @@
 #include "simpio.h"
 using namespace std;
 
-//When do we have to use a constructor and destructor, versus when do we not? like when making a linkedList & binary tree
-//versus a form of dynamic array?
-
 void addNode(node*& root, string name, long phoneNumber){
     if(root == nullptr){
         root = new node;
