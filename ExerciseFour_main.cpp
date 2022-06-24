@@ -29,7 +29,7 @@ node* addNode(node*& root, int num){
 
 bool find(node*& root, int num){
     if(root == nullptr){
-            return false;
+        return false;
     } if(root-> data == num){
         return true;
     }
