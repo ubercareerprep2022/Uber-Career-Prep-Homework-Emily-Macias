@@ -2,7 +2,7 @@
 #define PHONETREE_H
 
 #endif // PHONETREE_H
-#include <string>  //Why do we need to include <string> ?
+#include <string> 
 
 struct node{
     std::string name;
